@@ -1,37 +1,22 @@
 # Storage
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Storage** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Storage`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS Backup | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Backup_64.svg" width="36" alt="AWS Backup"/> | [AWS Backup](aws-backup/) |
+| AWS Elastic Disaster Recovery | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Elastic-Disaster-Recovery_64.svg" width="36" alt="AWS Elastic Disaster Recovery"/> | [AWS Elastic Disaster Recovery](aws-elastic-disaster-recovery/) |
+| AWS Snowball | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Snowball_64.svg" width="36" alt="AWS Snowball"/> | [AWS Snowball](aws-snowball/) |
+| AWS Snowball Edge | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Snowball-Edge_64.svg" width="36" alt="AWS Snowball Edge"/> | [AWS Snowball Edge](aws-snowball-edge/) |
+| AWS Storage Gateway | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Storage-Gateway_64.svg" width="36" alt="AWS Storage Gateway"/> | [AWS Storage Gateway](aws-storage-gateway/) |
+| Amazon EFS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-EFS_64.svg" width="36" alt="Amazon EFS"/> | [Amazon EFS](amazon-efs/) |
+| Amazon Elastic Block Store | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-Elastic-Block-Store_64.svg" width="36" alt="Amazon Elastic Block Store"/> | [Amazon Elastic Block Store](amazon-elastic-block-store/) |
+| Amazon FSx | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-FSx_64.svg" width="36" alt="Amazon FSx"/> | [Amazon FSx](amazon-fsx/) |
+| Amazon FSx for Lustre | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-FSx-for-Lustre_64.svg" width="36" alt="Amazon FSx for Lustre"/> | [Amazon FSx for Lustre](amazon-fsx-for-lustre/) |
+| Amazon FSx for NetApp ONTAP | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-FSx-for-NetApp-ONTAP_64.svg" width="36" alt="Amazon FSx for NetApp ONTAP"/> | [Amazon FSx for NetApp ONTAP](amazon-fsx-for-netapp-ontap/) |
+| Amazon FSx for OpenZFS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-FSx-for-OpenZFS_64.svg" width="36" alt="Amazon FSx for OpenZFS"/> | [Amazon FSx for OpenZFS](amazon-fsx-for-openzfs/) |
+| Amazon FSx for WFS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-FSx-for-WFS_64.svg" width="36" alt="Amazon FSx for WFS"/> | [Amazon FSx for WFS](amazon-fsx-for-wfs/) |
+| Amazon File Cache | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-File-Cache_64.svg" width="36" alt="Amazon File Cache"/> | [Amazon File Cache](amazon-file-cache/) |
+| Amazon S3 on Outposts | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-S3-on-Outposts_64.svg" width="36" alt="Amazon S3 on Outposts"/> | [Amazon S3 on Outposts](amazon-s3-on-outposts/) |
+| Amazon Simple Storage Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" width="36" alt="Amazon Simple Storage Service"/> | [Amazon Simple Storage Service](amazon-simple-storage-service/) |
+| Amazon Simple Storage Service Glacier | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service-Glacier_64.svg" width="36" alt="Amazon Simple Storage Service Glacier"/> | [Amazon Simple Storage Service Glacier](amazon-simple-storage-service-glacier/) |

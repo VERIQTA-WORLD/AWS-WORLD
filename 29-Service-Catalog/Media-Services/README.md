@@ -1,37 +1,26 @@
 # Media Services
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Media Services** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Media Services`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS Deadline Cloud | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Deadline-Cloud_64.svg" width="36" alt="AWS Deadline Cloud"/> | [AWS Deadline Cloud](aws-deadline-cloud/) |
+| AWS Elemental Appliances & Software | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Appliances-&-Software_64.svg" width="36" alt="AWS Elemental Appliances & Software"/> | [AWS Elemental Appliances & Software](aws-elemental-appliances-software/) |
+| AWS Elemental Conductor | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Conductor_64.svg" width="36" alt="AWS Elemental Conductor"/> | [AWS Elemental Conductor](aws-elemental-conductor/) |
+| AWS Elemental Delta | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Delta_64.svg" width="36" alt="AWS Elemental Delta"/> | [AWS Elemental Delta](aws-elemental-delta/) |
+| AWS Elemental Link | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Link_64.svg" width="36" alt="AWS Elemental Link"/> | [AWS Elemental Link](aws-elemental-link/) |
+| AWS Elemental Live | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Live_64.svg" width="36" alt="AWS Elemental Live"/> | [AWS Elemental Live](aws-elemental-live/) |
+| AWS Elemental MediaConnect | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaConnect_64.svg" width="36" alt="AWS Elemental MediaConnect"/> | [AWS Elemental MediaConnect](aws-elemental-mediaconnect/) |
+| AWS Elemental MediaConvert | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaConvert_64.svg" width="36" alt="AWS Elemental MediaConvert"/> | [AWS Elemental MediaConvert](aws-elemental-mediaconvert/) |
+| AWS Elemental MediaLive | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaLive_64.svg" width="36" alt="AWS Elemental MediaLive"/> | [AWS Elemental MediaLive](aws-elemental-medialive/) |
+| AWS Elemental MediaPackage | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaPackage_64.svg" width="36" alt="AWS Elemental MediaPackage"/> | [AWS Elemental MediaPackage](aws-elemental-mediapackage/) |
+| AWS Elemental MediaStore | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaStore_64.svg" width="36" alt="AWS Elemental MediaStore"/> | [AWS Elemental MediaStore](aws-elemental-mediastore/) |
+| AWS Elemental MediaTailor | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaTailor_64.svg" width="36" alt="AWS Elemental MediaTailor"/> | [AWS Elemental MediaTailor](aws-elemental-mediatailor/) |
+| AWS Elemental Server | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Server_64.svg" width="36" alt="AWS Elemental Server"/> | [AWS Elemental Server](aws-elemental-server/) |
+| AWS Thinkbox Deadline | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Deadline_64.svg" width="36" alt="AWS Thinkbox Deadline"/> | [AWS Thinkbox Deadline](aws-thinkbox-deadline/) |
+| AWS Thinkbox Frost | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Frost_64.svg" width="36" alt="AWS Thinkbox Frost"/> | [AWS Thinkbox Frost](aws-thinkbox-frost/) |
+| AWS Thinkbox Krakatoa | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Krakatoa_64.svg" width="36" alt="AWS Thinkbox Krakatoa"/> | [AWS Thinkbox Krakatoa](aws-thinkbox-krakatoa/) |
+| AWS Thinkbox Stoke | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Stoke_64.svg" width="36" alt="AWS Thinkbox Stoke"/> | [AWS Thinkbox Stoke](aws-thinkbox-stoke/) |
+| AWS Thinkbox XMesh | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-XMesh_64.svg" width="36" alt="AWS Thinkbox XMesh"/> | [AWS Thinkbox XMesh](aws-thinkbox-xmesh/) |
+| Amazon Interactive Video Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_Amazon-Interactive-Video-Service_64.svg" width="36" alt="Amazon Interactive Video Service"/> | [Amazon Interactive Video Service](amazon-interactive-video-service/) |
+| Amazon Kinesis Video Streams | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_Amazon-Kinesis-Video-Streams_64.svg" width="36" alt="Amazon Kinesis Video Streams"/> | [Amazon Kinesis Video Streams](amazon-kinesis-video-streams/) |

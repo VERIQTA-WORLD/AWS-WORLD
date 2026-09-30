@@ -1,37 +1,20 @@
 # Business Applications
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Business Applications** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Business Applications`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS AppFabric | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-AppFabric_64.svg" width="36" alt="AWS AppFabric"/> | [AWS AppFabric](aws-appfabric/) |
+| AWS End User Messaging | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-End-User-Messaging_64.svg" width="36" alt="AWS End User Messaging"/> | [AWS End User Messaging](aws-end-user-messaging/) |
+| AWS Supply Chain | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-Supply-Chain_64.svg" width="36" alt="AWS Supply Chain"/> | [AWS Supply Chain](aws-supply-chain/) |
+| AWS Wickr | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-Wickr_64.svg" width="36" alt="AWS Wickr"/> | [AWS Wickr](aws-wickr/) |
+| Amazon Chime | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Chime_64.svg" width="36" alt="Amazon Chime"/> | [Amazon Chime](amazon-chime/) |
+| Amazon Chime SDK | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Chime-SDK_64.svg" width="36" alt="Amazon Chime SDK"/> | [Amazon Chime SDK](amazon-chime-sdk/) |
+| Amazon Connect | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Connect_64.svg" width="36" alt="Amazon Connect"/> | [Amazon Connect](amazon-connect/) |
+| Amazon Pinpoint | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Pinpoint_64.svg" width="36" alt="Amazon Pinpoint"/> | [Amazon Pinpoint](amazon-pinpoint/) |
+| Amazon Pinpoint APIs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Pinpoint-APIs_64.svg" width="36" alt="Amazon Pinpoint APIs"/> | [Amazon Pinpoint APIs](amazon-pinpoint-apis/) |
+| Amazon Quick | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Quick_64.svg" width="36" alt="Amazon Quick"/> | [Amazon Quick](amazon-quick/) |
+| Amazon Simple Email Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Simple-Email-Service_64.svg" width="36" alt="Amazon Simple Email Service"/> | [Amazon Simple Email Service](amazon-simple-email-service/) |
+| Amazon WorkDocs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkDocs_64.svg" width="36" alt="Amazon WorkDocs"/> | [Amazon WorkDocs](amazon-workdocs/) |
+| Amazon WorkDocs SDK | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkDocs-SDK_64.svg" width="36" alt="Amazon WorkDocs SDK"/> | [Amazon WorkDocs SDK](amazon-workdocs-sdk/) |
+| Amazon WorkMail | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkMail_64.svg" width="36" alt="Amazon WorkMail"/> | [Amazon WorkMail](amazon-workmail/) |

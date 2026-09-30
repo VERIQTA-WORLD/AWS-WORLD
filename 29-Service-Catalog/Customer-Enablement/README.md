@@ -1,37 +1,14 @@
 # Customer Enablement
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Customer Enablement** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Customer Enablement`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS Activate | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-Activate_64.svg" width="36" alt="AWS Activate"/> | [AWS Activate](aws-activate/) |
+| AWS IQ | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-IQ_64.svg" width="36" alt="AWS IQ"/> | [AWS IQ](aws-iq/) |
+| AWS Managed Services | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-Managed-Services_64.svg" width="36" alt="AWS Managed Services"/> | [AWS Managed Services](aws-managed-services/) |
+| AWS Professional Services | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-Professional-Services_64.svg" width="36" alt="AWS Professional Services"/> | [AWS Professional Services](aws-professional-services/) |
+| AWS Support | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-Support_64.svg" width="36" alt="AWS Support"/> | [AWS Support](aws-support/) |
+| AWS Training Certification | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-Training-Certification_64.svg" width="36" alt="AWS Training Certification"/> | [AWS Training Certification](aws-training-certification/) |
+| AWS rePost | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-rePost_64.svg" width="36" alt="AWS rePost"/> | [AWS rePost](aws-repost/) |
+| AWS rePost Private | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Customer-Enablement/64/Arch_AWS-rePost-Private_64.svg" width="36" alt="AWS rePost Private"/> | [AWS rePost Private](aws-repost-private/) |

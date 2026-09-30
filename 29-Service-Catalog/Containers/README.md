@@ -1,39 +1,14 @@
 # Containers
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Containers** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-## Safety and cost control
-
-Before creating resources, confirm the active account, role, and Region. Review estimated cost, required permissions, public exposure, service quotas, cleanup commands, and cleanup verification. Never assume that a service is free.
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Containers`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS Fargate | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_AWS-Fargate_64.svg" width="36" alt="AWS Fargate"/> | [AWS Fargate](aws-fargate/) |
+| Amazon ECS Anywhere | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-ECS-Anywhere_64.svg" width="36" alt="Amazon ECS Anywhere"/> | [Amazon ECS Anywhere](amazon-ecs-anywhere/) |
+| Amazon EKS Anywhere | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-EKS-Anywhere_64.svg" width="36" alt="Amazon EKS Anywhere"/> | [Amazon EKS Anywhere](amazon-eks-anywhere/) |
+| Amazon EKS Distro | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-EKS-Distro_64.svg" width="36" alt="Amazon EKS Distro"/> | [Amazon EKS Distro](amazon-eks-distro/) |
+| Amazon Elastic Container Registry | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-Elastic-Container-Registry_64.svg" width="36" alt="Amazon Elastic Container Registry"/> | [Amazon Elastic Container Registry](amazon-elastic-container-registry/) |
+| Amazon Elastic Container Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-Elastic-Container-Service_64.svg" width="36" alt="Amazon Elastic Container Service"/> | [Amazon Elastic Container Service](amazon-elastic-container-service/) |
+| Amazon Elastic Kubernetes Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-Elastic-Kubernetes-Service_64.svg" width="36" alt="Amazon Elastic Kubernetes Service"/> | [Amazon Elastic Kubernetes Service](amazon-elastic-kubernetes-service/) |
+| Red Hat OpenShift Service on AWS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Red-Hat-OpenShift-Service-on-AWS_64.svg" width="36" alt="Red Hat OpenShift Service on AWS"/> | [Red Hat OpenShift Service on AWS](red-hat-openshift-service-on-aws/) |

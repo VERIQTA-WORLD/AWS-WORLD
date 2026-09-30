@@ -1,37 +1,16 @@
-# Internet Of Things
+# Internet of Things
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Internet Of Things** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Internet Of Things`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS IoT Core | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-Core_64.svg" width="36" alt="AWS IoT Core"/> | [AWS IoT Core](aws-iot-core/) |
+| AWS IoT Device Defender | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-Device-Defender_64.svg" width="36" alt="AWS IoT Device Defender"/> | [AWS IoT Device Defender](aws-iot-device-defender/) |
+| AWS IoT Device Management | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-Device-Management_64.svg" width="36" alt="AWS IoT Device Management"/> | [AWS IoT Device Management](aws-iot-device-management/) |
+| AWS IoT Events | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-Events_64.svg" width="36" alt="AWS IoT Events"/> | [AWS IoT Events](aws-iot-events/) |
+| AWS IoT ExpressLink | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-ExpressLink_64.svg" width="36" alt="AWS IoT ExpressLink"/> | [AWS IoT ExpressLink](aws-iot-expresslink/) |
+| AWS IoT FleetWise | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-FleetWise_64.svg" width="36" alt="AWS IoT FleetWise"/> | [AWS IoT FleetWise](aws-iot-fleetwise/) |
+| AWS IoT Greengrass | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-Greengrass_64.svg" width="36" alt="AWS IoT Greengrass"/> | [AWS IoT Greengrass](aws-iot-greengrass/) |
+| AWS IoT SiteWise | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-SiteWise_64.svg" width="36" alt="AWS IoT SiteWise"/> | [AWS IoT SiteWise](aws-iot-sitewise/) |
+| AWS IoT TwinMaker | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_AWS-IoT-TwinMaker_64.svg" width="36" alt="AWS IoT TwinMaker"/> | [AWS IoT TwinMaker](aws-iot-twinmaker/) |
+| FreeRTOS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Internet-of-Things/64/Arch_FreeRTOS_64.svg" width="36" alt="FreeRTOS"/> | [FreeRTOS](freertos/) |

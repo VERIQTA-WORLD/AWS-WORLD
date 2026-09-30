@@ -1,37 +1,22 @@
 # Developer Tools
 
-[AWS World Home](../../README.md) | [Parent Section](../README.md)
+Browse the service folders below. Learning files are reserved and currently empty.
 
-## Purpose
-
-This area covers **Developer Tools** within the broader AWS World repository. Find maintained service records covering capabilities, limits, security, pricing, architecture, operations, and alternatives.
-
-## What belongs here
-
-- Clear explanations of the underlying concepts and AWS service behavior
-- Architecture, security, reliability, operations, performance, and cost considerations
-- Commands, console paths, API examples, and infrastructure-as-code where appropriate
-- Verification steps, expected results, failure modes, troubleshooting, and recovery
-- Labs, projects, scenarios, decision guidance, or reference material suited to the subject
-
-## How to use this section
-
-1. Read the prerequisites and safety notes before creating AWS resources.
-2. Learn the concepts before following implementation steps.
-3. Complete verification and failure exercises in an authorized learning account.
-4. Delete temporary resources and confirm cleanup.
-5. Record evidence, decisions, costs, and lessons learned.
-
-
-
-## Contents
-
-This area is ready for reviewed learning resources, examples, labs, or operational material.
-
-## Content status
-
-The repository structure is established. Detailed material will be added and reviewed against the AWS World resource, safety, freshness, and technical standards.
-
----
-
-**Repository path:** `29 Service Catalog / Developer Tools`
+| Service | Icon | Learning folder |
+|---|---|---|
+| AWS Cloud Control API | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud-Control-API_64.svg" width="36" alt="AWS Cloud Control API"/> | [AWS Cloud Control API](aws-cloud-control-api/) |
+| AWS Cloud Development Kit | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud-Development-Kit_64.svg" width="36" alt="AWS Cloud Development Kit"/> | [AWS Cloud Development Kit](aws-cloud-development-kit/) |
+| AWS Cloud9 | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud9_64.svg" width="36" alt="AWS Cloud9"/> | [AWS Cloud9](aws-cloud9/) |
+| AWS CloudShell | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CloudShell_64.svg" width="36" alt="AWS CloudShell"/> | [AWS CloudShell](aws-cloudshell/) |
+| AWS CodeArtifact | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeArtifact_64.svg" width="36" alt="AWS CodeArtifact"/> | [AWS CodeArtifact](aws-codeartifact/) |
+| AWS CodeBuild | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeBuild_64.svg" width="36" alt="AWS CodeBuild"/> | [AWS CodeBuild](aws-codebuild/) |
+| AWS CodeCommit | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeCommit_64.svg" width="36" alt="AWS CodeCommit"/> | [AWS CodeCommit](aws-codecommit/) |
+| AWS CodeDeploy | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeDeploy_64.svg" width="36" alt="AWS CodeDeploy"/> | [AWS CodeDeploy](aws-codedeploy/) |
+| AWS CodePipeline | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64.svg" width="36" alt="AWS CodePipeline"/> | [AWS CodePipeline](aws-codepipeline/) |
+| AWS Command Line Interface | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Command-Line-Interface_64.svg" width="36" alt="AWS Command Line Interface"/> | [AWS Command Line Interface](aws-command-line-interface/) |
+| AWS Fault Injection Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Fault-Injection-Service_64.svg" width="36" alt="AWS Fault Injection Service"/> | [AWS Fault Injection Service](aws-fault-injection-service/) |
+| AWS Infrastructure Composer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Infrastructure-Composer_64.svg" width="36" alt="AWS Infrastructure Composer"/> | [AWS Infrastructure Composer](aws-infrastructure-composer/) |
+| AWS Tools and SDKs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Tools-and-SDKs_64.svg" width="36" alt="AWS Tools and SDKs"/> | [AWS Tools and SDKs](aws-tools-and-sdks/) |
+| AWS X Ray | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-X-Ray_64.svg" width="36" alt="AWS X Ray"/> | [AWS X Ray](aws-x-ray/) |
+| Amazon CodeCatalyst | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_Amazon-CodeCatalyst_64.svg" width="36" alt="Amazon CodeCatalyst"/> | [Amazon CodeCatalyst](amazon-codecatalyst/) |
+| Amazon Corretto | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_Amazon-Corretto_64.svg" width="36" alt="Amazon Corretto"/> | [Amazon Corretto](amazon-corretto/) |
