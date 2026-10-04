@@ -1,15 +1,15 @@
 # Start Here
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Start Here through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| account setup | [Open](account-setup.md) |
-| aws cli setup | [Open](aws-cli-setup.md) |
-| cost and cleanup guide | [Open](cost-and-cleanup-guide.md) |
-| evidence and redaction | [Open](evidence-and-redaction.md) |
-| how to use | [Open](how-to-use.md) |
-| lab safety | [Open](lab-safety.md) |
-| learning paths | [Open](learning-paths.md) |
+| Topic | Explore |
+| :--- | :--- |
+| account setup | [Explore](account-setup.md) |
+| aws cli setup | [Explore](aws-cli-setup.md) |
+| cost and cleanup guide | [Explore](cost-and-cleanup-guide.md) |
+| evidence and redaction | [Explore](evidence-and-redaction.md) |
+| how to use | [Explore](how-to-use.md) |
+| lab safety | [Explore](lab-safety.md) |
+| learning paths | [Explore](learning-paths.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

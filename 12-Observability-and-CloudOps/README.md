@@ -1,17 +1,17 @@
 # Observability and CloudOps
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Observability and CloudOps through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 CloudWatch | [Open](01-CloudWatch.md) |
-| 02 CloudTrail | [Open](02-CloudTrail.md) |
-| 03 AWS Config | [Open](03-AWS-Config.md) |
-| 04 Systems Manager | [Open](04-Systems-Manager.md) |
-| 05 X Ray | [Open](05-X-Ray.md) |
-| 06 Managed Prometheus | [Open](06-Managed-Prometheus.md) |
-| 07 Managed Grafana | [Open](07-Managed-Grafana.md) |
-| 08 OpenTelemetry on AWS | [Open](08-OpenTelemetry-on-AWS.md) |
-| 09 CloudOps Runbooks | [Open](09-CloudOps-Runbooks.md) |
+| Topic | Explore |
+| :--- | :--- |
+| CloudWatch | [Explore](01-CloudWatch.md) |
+| CloudTrail | [Explore](02-CloudTrail.md) |
+| AWS Config | [Explore](03-AWS-Config.md) |
+| Systems Manager | [Explore](04-Systems-Manager.md) |
+| X Ray | [Explore](05-X-Ray.md) |
+| Managed Prometheus | [Explore](06-Managed-Prometheus.md) |
+| Managed Grafana | [Explore](07-Managed-Grafana.md) |
+| OpenTelemetry on AWS | [Explore](08-OpenTelemetry-on-AWS.md) |
+| CloudOps Runbooks | [Explore](09-CloudOps-Runbooks.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

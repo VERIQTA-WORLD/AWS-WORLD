@@ -1,14 +1,14 @@
 # Cloud and AWS Foundations
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Cloud and AWS Foundations through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| global infrastructure | [Open](global-infrastructure.md) |
-| pricing and billing | [Open](pricing-and-billing.md) |
-| regions and availability zones | [Open](regions-and-availability-zones.md) |
-| resource lifecycle | [Open](resource-lifecycle.md) |
-| service quotas | [Open](service-quotas.md) |
-| shared responsibility | [Open](shared-responsibility.md) |
+| Topic | Explore |
+| :--- | :--- |
+| global infrastructure | [Explore](global-infrastructure.md) |
+| pricing and billing | [Explore](pricing-and-billing.md) |
+| regions and availability zones | [Explore](regions-and-availability-zones.md) |
+| resource lifecycle | [Explore](resource-lifecycle.md) |
+| service quotas | [Explore](service-quotas.md) |
+| shared responsibility | [Explore](shared-responsibility.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

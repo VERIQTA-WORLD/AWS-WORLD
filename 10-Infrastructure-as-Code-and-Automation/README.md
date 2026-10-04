@@ -1,16 +1,16 @@
 # Infrastructure as Code and Automation
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Infrastructure as Code and Automation through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 CloudFormation | [Open](01-CloudFormation.md) |
-| 02 AWS CDK | [Open](02-AWS-CDK.md) |
-| 03 Terraform on AWS | [Open](03-Terraform-on-AWS.md) |
-| 04 Drift and State | [Open](04-Drift-and-State.md) |
-| 05 Change Sets | [Open](05-Change-Sets.md) |
-| 06 Infrastructure Testing | [Open](06-Infrastructure-Testing.md) |
-| 07 Automation | [Open](07-Automation.md) |
-| Templates | [Open](Templates/) |
+| Topic | Explore |
+| :--- | :--- |
+| CloudFormation | [Explore](01-CloudFormation.md) |
+| AWS CDK | [Explore](02-AWS-CDK.md) |
+| Terraform on AWS | [Explore](03-Terraform-on-AWS.md) |
+| Drift and State | [Explore](04-Drift-and-State.md) |
+| Change Sets | [Explore](05-Change-Sets.md) |
+| Infrastructure Testing | [Explore](06-Infrastructure-Testing.md) |
+| Automation | [Explore](07-Automation.md) |
+| Templates | [Explore](Templates/) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

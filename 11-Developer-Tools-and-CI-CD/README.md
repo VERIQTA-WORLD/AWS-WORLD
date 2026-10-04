@@ -1,17 +1,15 @@
 # Developer Tools and CI CD
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Developer Tools and CI CD through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 CodeBuild | [Open](01-CodeBuild.md) |
-| 02 CodePipeline | [Open](02-CodePipeline.md) |
-| 03 CodeDeploy | [Open](03-CodeDeploy.md) |
-| 04 Artifact Management | [Open](04-Artifact-Management.md) |
-| 05 Deployment Strategies | [Open](05-Deployment-Strategies.md) |
-| 06 Pipeline Identity | [Open](06-Pipeline-Identity.md) |
-| 07 Delivery Troubleshooting | [Open](07-Delivery-Troubleshooting.md) |
+| Topic | Explore |
+| :--- | :--- |
+| CodeBuild | [Explore](01-CodeBuild.md) |
+| CodePipeline | [Explore](02-CodePipeline.md) |
+| CodeDeploy | [Explore](03-CodeDeploy.md) |
+| Artifact Management | [Explore](04-Artifact-Management.md) |
+| Deployment Strategies | [Explore](05-Deployment-Strategies.md) |
+| Pipeline Identity | [Explore](06-Pipeline-Identity.md) |
+| Delivery Troubleshooting | [Explore](07-Delivery-Troubleshooting.md) |
 
-[Return to AWS World](../README.md)
-
-[Browse developer tools services](../29-Service-Catalog/developer-tools/)
+[Return to AWS-WORLD](../README.md)

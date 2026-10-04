@@ -1,7 +1,9 @@
-# Quantum Technologies
+# quantum technologies
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore quantum technologies through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| Amazon Braket | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Quantum-Technologies/64/Arch_Amazon-Braket_64.svg" width="36" alt="Amazon Braket"/> | [Amazon Braket](amazon-braket/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon braket | [Explore](amazon-braket/) |
+
+[Return to AWS-WORLD](../../README.md)

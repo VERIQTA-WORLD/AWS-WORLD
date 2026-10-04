@@ -1,32 +1,32 @@
-# AWS Service Catalog
+# Service Catalog
 
-Browse service categories. Individual service learning files remain empty.
+Explore Service Catalog through AWS architecture, service behaviour, and production engineering.
 
-| Category | Directory |
-|---|---|
-| Analytics | [Browse](analytics/) |
-| Application Integration | [Browse](application-integration/) |
-| Artificial Intelligence | [Browse](artificial-intelligence/) |
-| Blockchain | [Browse](blockchain/) |
-| Business Applications | [Browse](business-applications/) |
-| Cloud Financial Management | [Browse](cloud-financial-management/) |
-| Compute | [Browse](compute/) |
-| Containers | [Browse](containers/) |
-| Customer Enablement | [Browse](customer-enablement/) |
-| Databases | [Browse](databases/) |
-| Developer Tools | [Browse](developer-tools/) |
-| End User Computing | [Browse](end-user-computing/) |
-| Front End Web Mobile | [Browse](front-end-web-mobile/) |
-| Games | [Browse](games/) |
-| General Icons | [Browse](general-icons/) |
-| Internet Of Things | [Browse](internet-of-things/) |
-| Management Tools | [Browse](management-tools/) |
-| Media Services | [Browse](media-services/) |
-| Migration Modernization | [Browse](migration-modernization/) |
-| Networking Content Delivery | [Browse](networking-content-delivery/) |
-| Quantum Technologies | [Browse](quantum-technologies/) |
-| Satellite | [Browse](satellite/) |
-| Security Identity | [Browse](security-identity/) |
-| Storage | [Browse](storage/) |
+| Topic | Explore |
+| :--- | :--- |
+| analytics | [Explore](analytics/) |
+| application integration | [Explore](application-integration/) |
+| artificial intelligence | [Explore](artificial-intelligence/) |
+| blockchain | [Explore](blockchain/) |
+| business applications | [Explore](business-applications/) |
+| cloud financial management | [Explore](cloud-financial-management/) |
+| compute | [Explore](compute/) |
+| containers | [Explore](containers/) |
+| customer enablement | [Explore](customer-enablement/) |
+| databases | [Explore](databases/) |
+| developer tools | [Explore](developer-tools/) |
+| end user computing | [Explore](end-user-computing/) |
+| front end web mobile | [Explore](front-end-web-mobile/) |
+| games | [Explore](games/) |
+| general icons | [Explore](general-icons/) |
+| internet of things | [Explore](internet-of-things/) |
+| management tools | [Explore](management-tools/) |
+| media services | [Explore](media-services/) |
+| migration modernization | [Explore](migration-modernization/) |
+| networking content delivery | [Explore](networking-content-delivery/) |
+| quantum technologies | [Explore](quantum-technologies/) |
+| satellite | [Explore](satellite/) |
+| security identity | [Explore](security-identity/) |
+| storage | [Explore](storage/) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

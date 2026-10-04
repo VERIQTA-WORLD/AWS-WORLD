@@ -1,15 +1,15 @@
 # Toolkit
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Toolkit through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 AWS CLI | [Open](01-AWS-CLI.md) |
-| 02 Boto3 | [Open](02-Boto3.md) |
-| 03 Command Cheat Sheets | [Open](03-Command-Cheat-Sheets.md) |
-| 04 Evidence Templates | [Open](04-Evidence-Templates.md) |
-| 05 Architecture Templates | [Open](05-Architecture-Templates.md) |
-| 06 Cleanup Checklists | [Open](06-Cleanup-Checklists.md) |
-| Automation | [Open](Automation/) |
+| Topic | Explore |
+| :--- | :--- |
+| AWS CLI | [Explore](01-AWS-CLI.md) |
+| Boto3 | [Explore](02-Boto3.md) |
+| Command Cheat Sheets | [Explore](03-Command-Cheat-Sheets.md) |
+| Evidence Templates | [Explore](04-Evidence-Templates.md) |
+| Architecture Templates | [Explore](05-Architecture-Templates.md) |
+| Cleanup Checklists | [Explore](06-Cleanup-Checklists.md) |
+| Automation | [Explore](Automation/) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

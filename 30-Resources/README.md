@@ -1,9 +1,9 @@
-# AWS Resources
+# Resources
 
-Explore AWS resource-reference folders and supporting source material.
+Explore Resources through AWS architecture, service behaviour, and production engineering.
 
-| Area | Directory |
-|---|---|
-| Resource icon reference | [Browse](Resource-Reference/) |
+| Topic | Explore |
+| :--- | :--- |
+| Resource Reference | [Explore](Resource-Reference/) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

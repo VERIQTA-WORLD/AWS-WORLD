@@ -1,22 +1,24 @@
-# Developer Tools
+# developer tools
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore developer tools through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS Cloud Control API | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud-Control-API_64.svg" width="36" alt="AWS Cloud Control API"/> | [AWS Cloud Control API](aws-cloud-control-api/) |
-| AWS Cloud Development Kit | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud-Development-Kit_64.svg" width="36" alt="AWS Cloud Development Kit"/> | [AWS Cloud Development Kit](aws-cloud-development-kit/) |
-| AWS Cloud9 | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Cloud9_64.svg" width="36" alt="AWS Cloud9"/> | [AWS Cloud9](aws-cloud9/) |
-| AWS CloudShell | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CloudShell_64.svg" width="36" alt="AWS CloudShell"/> | [AWS CloudShell](aws-cloudshell/) |
-| AWS CodeArtifact | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeArtifact_64.svg" width="36" alt="AWS CodeArtifact"/> | [AWS CodeArtifact](aws-codeartifact/) |
-| AWS CodeBuild | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeBuild_64.svg" width="36" alt="AWS CodeBuild"/> | [AWS CodeBuild](aws-codebuild/) |
-| AWS CodeCommit | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeCommit_64.svg" width="36" alt="AWS CodeCommit"/> | [AWS CodeCommit](aws-codecommit/) |
-| AWS CodeDeploy | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodeDeploy_64.svg" width="36" alt="AWS CodeDeploy"/> | [AWS CodeDeploy](aws-codedeploy/) |
-| AWS CodePipeline | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64.svg" width="36" alt="AWS CodePipeline"/> | [AWS CodePipeline](aws-codepipeline/) |
-| AWS Command Line Interface | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Command-Line-Interface_64.svg" width="36" alt="AWS Command Line Interface"/> | [AWS Command Line Interface](aws-command-line-interface/) |
-| AWS Fault Injection Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Fault-Injection-Service_64.svg" width="36" alt="AWS Fault Injection Service"/> | [AWS Fault Injection Service](aws-fault-injection-service/) |
-| AWS Infrastructure Composer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Infrastructure-Composer_64.svg" width="36" alt="AWS Infrastructure Composer"/> | [AWS Infrastructure Composer](aws-infrastructure-composer/) |
-| AWS Tools and SDKs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-Tools-and-SDKs_64.svg" width="36" alt="AWS Tools and SDKs"/> | [AWS Tools and SDKs](aws-tools-and-sdks/) |
-| AWS X Ray | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_AWS-X-Ray_64.svg" width="36" alt="AWS X Ray"/> | [AWS X Ray](aws-x-ray/) |
-| Amazon CodeCatalyst | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_Amazon-CodeCatalyst_64.svg" width="36" alt="Amazon CodeCatalyst"/> | [Amazon CodeCatalyst](amazon-codecatalyst/) |
-| Amazon Corretto | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Developer-Tools/64/Arch_Amazon-Corretto_64.svg" width="36" alt="Amazon Corretto"/> | [Amazon Corretto](amazon-corretto/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon codecatalyst | [Explore](amazon-codecatalyst/) |
+| amazon corretto | [Explore](amazon-corretto/) |
+| aws cloud control api | [Explore](aws-cloud-control-api/) |
+| aws cloud development kit | [Explore](aws-cloud-development-kit/) |
+| aws cloud9 | [Explore](aws-cloud9/) |
+| aws cloudshell | [Explore](aws-cloudshell/) |
+| aws codeartifact | [Explore](aws-codeartifact/) |
+| aws codebuild | [Explore](aws-codebuild/) |
+| aws codecommit | [Explore](aws-codecommit/) |
+| aws codedeploy | [Explore](aws-codedeploy/) |
+| aws codepipeline | [Explore](aws-codepipeline/) |
+| aws command line interface | [Explore](aws-command-line-interface/) |
+| aws fault injection service | [Explore](aws-fault-injection-service/) |
+| aws infrastructure composer | [Explore](aws-infrastructure-composer/) |
+| aws tools and sdks | [Explore](aws-tools-and-sdks/) |
+| aws x ray | [Explore](aws-x-ray/) |
+
+[Return to AWS-WORLD](../../README.md)

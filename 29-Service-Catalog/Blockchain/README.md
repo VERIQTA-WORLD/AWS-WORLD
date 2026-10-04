@@ -1,7 +1,9 @@
-# Blockchain
+# blockchain
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore blockchain through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| Amazon Managed Blockchain | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Blockchain/64/Arch_Amazon-Managed-Blockchain_64.svg" width="36" alt="Amazon Managed Blockchain"/> | [Amazon Managed Blockchain](amazon-managed-blockchain/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon managed blockchain | [Explore](amazon-managed-blockchain/) |
+
+[Return to AWS-WORLD](../../README.md)

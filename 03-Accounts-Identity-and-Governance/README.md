@@ -1,14 +1,14 @@
 # Accounts Identity and Governance
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Accounts Identity and Governance through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| account boundaries | [Open](account-boundaries.md) |
-| control tower | [Open](control-tower.md) |
-| iam | [Open](iam.md) |
-| identity center | [Open](identity-center.md) |
-| organizations | [Open](organizations.md) |
-| service control policies | [Open](service-control-policies.md) |
+| Topic | Explore |
+| :--- | :--- |
+| account boundaries | [Explore](account-boundaries.md) |
+| control tower | [Explore](control-tower.md) |
+| iam | [Explore](iam.md) |
+| identity center | [Explore](identity-center.md) |
+| organizations | [Explore](organizations.md) |
+| service control policies | [Explore](service-control-policies.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

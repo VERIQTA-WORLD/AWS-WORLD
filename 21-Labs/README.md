@@ -1,11 +1,11 @@
 # Labs
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Labs through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| Junior | [Open](Junior/) |
-| Mid Level | [Open](Mid-Level/) |
-| Senior | [Open](Senior/) |
+| Topic | Explore |
+| :--- | :--- |
+| Junior | [Explore](Junior/) |
+| Mid Level | [Explore](Mid-Level/) |
+| Senior | [Explore](Senior/) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

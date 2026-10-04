@@ -1,17 +1,17 @@
 # Databases and Caching
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Databases and Caching through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 RDS | [Open](01-RDS.md) |
-| 02 Aurora | [Open](02-Aurora.md) |
-| 03 DynamoDB | [Open](03-DynamoDB.md) |
-| 04 ElastiCache | [Open](04-ElastiCache.md) |
-| 05 MemoryDB | [Open](05-MemoryDB.md) |
-| 06 DocumentDB | [Open](06-DocumentDB.md) |
-| 07 Neptune | [Open](07-Neptune.md) |
-| 08 Database Selection | [Open](08-Database-Selection.md) |
-| 09 Backup and Failover | [Open](09-Backup-and-Failover.md) |
+| Topic | Explore |
+| :--- | :--- |
+| RDS | [Explore](01-RDS.md) |
+| Aurora | [Explore](02-Aurora.md) |
+| DynamoDB | [Explore](03-DynamoDB.md) |
+| ElastiCache | [Explore](04-ElastiCache.md) |
+| MemoryDB | [Explore](05-MemoryDB.md) |
+| DocumentDB | [Explore](06-DocumentDB.md) |
+| Neptune | [Explore](07-Neptune.md) |
+| Database Selection | [Explore](08-Database-Selection.md) |
+| Backup and Failover | [Explore](09-Backup-and-Failover.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

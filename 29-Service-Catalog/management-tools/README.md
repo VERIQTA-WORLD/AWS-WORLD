@@ -1,39 +1,41 @@
-# Management Tools
+# management tools
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore management tools through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS AppConfig | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-AppConfig_64.svg" width="36" alt="AWS AppConfig"/> | [AWS AppConfig](aws-appconfig/) |
-| AWS Application Auto Scaling | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Application-Auto-Scaling_64.svg" width="36" alt="AWS Application Auto Scaling"/> | [AWS Application Auto Scaling](aws-application-auto-scaling/) |
-| AWS Auto Scaling | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Auto-Scaling_64.svg" width="36" alt="AWS Auto Scaling"/> | [AWS Auto Scaling](aws-auto-scaling/) |
-| AWS Backint Agent | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Backint-Agent_64.svg" width="36" alt="AWS Backint Agent"/> | [AWS Backint Agent](aws-backint-agent/) |
-| AWS Chatbot | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Chatbot_64.svg" width="36" alt="AWS Chatbot"/> | [AWS Chatbot](aws-chatbot/) |
-| AWS CloudFormation | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-CloudFormation_64.svg" width="36" alt="AWS CloudFormation"/> | [AWS CloudFormation](aws-cloudformation/) |
-| AWS CloudTrail | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-CloudTrail_64.svg" width="36" alt="AWS CloudTrail"/> | [AWS CloudTrail](aws-cloudtrail/) |
-| AWS Compute Optimizer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Compute-Optimizer_64.svg" width="36" alt="AWS Compute Optimizer"/> | [AWS Compute Optimizer](aws-compute-optimizer/) |
-| AWS Config | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Config_64.svg" width="36" alt="AWS Config"/> | [AWS Config](aws-config/) |
-| AWS Console Mobile Application | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Console-Mobile-Application_64.svg" width="36" alt="AWS Console Mobile Application"/> | [AWS Console Mobile Application](aws-console-mobile-application/) |
-| AWS Control Tower | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Control-Tower_64.svg" width="36" alt="AWS Control Tower"/> | [AWS Control Tower](aws-control-tower/) |
-| AWS DevOps Agent | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-DevOps-Agent_64.svg" width="36" alt="AWS DevOps Agent"/> | [AWS DevOps Agent](aws-devops-agent/) |
-| AWS Distro for OpenTelemetry | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Distro-for-OpenTelemetry_64.svg" width="36" alt="AWS Distro for OpenTelemetry"/> | [AWS Distro for OpenTelemetry](aws-distro-for-opentelemetry/) |
-| AWS Health Dashboard | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Health-Dashboard_64.svg" width="36" alt="AWS Health Dashboard"/> | [AWS Health Dashboard](aws-health-dashboard/) |
-| AWS Launch Wizard | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Launch-Wizard_64.svg" width="36" alt="AWS Launch Wizard"/> | [AWS Launch Wizard](aws-launch-wizard/) |
-| AWS License Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-License-Manager_64.svg" width="36" alt="AWS License Manager"/> | [AWS License Manager](aws-license-manager/) |
-| AWS Management Console | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Management-Console_64.svg" width="36" alt="AWS Management Console"/> | [AWS Management Console](aws-management-console/) |
-| AWS Organizations | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Organizations_64.svg" width="36" alt="AWS Organizations"/> | [AWS Organizations](aws-organizations/) |
-| AWS Partner Central | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Partner-Central_64.svg" width="36" alt="AWS Partner Central"/> | [AWS Partner Central](aws-partner-central/) |
-| AWS Proton | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Proton_64.svg" width="36" alt="AWS Proton"/> | [AWS Proton](aws-proton/) |
-| AWS Resilience Hub | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Resilience-Hub_64.svg" width="36" alt="AWS Resilience Hub"/> | [AWS Resilience Hub](aws-resilience-hub/) |
-| AWS Resource Explorer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Resource-Explorer_64.svg" width="36" alt="AWS Resource Explorer"/> | [AWS Resource Explorer](aws-resource-explorer/) |
-| AWS Service Catalog | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Service-Catalog_64.svg" width="36" alt="AWS Service Catalog"/> | [AWS Service Catalog](aws-service-catalog/) |
-| AWS Service Management Connector | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Service-Management-Connector_64.svg" width="36" alt="AWS Service Management Connector"/> | [AWS Service Management Connector](aws-service-management-connector/) |
-| AWS Sustainability | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Sustainability_64.svg" width="36" alt="AWS Sustainability"/> | [AWS Sustainability](aws-sustainability/) |
-| AWS Systems Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Systems-Manager_64.svg" width="36" alt="AWS Systems Manager"/> | [AWS Systems Manager](aws-systems-manager/) |
-| AWS Telco Network Builder | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Telco-Network-Builder_64.svg" width="36" alt="AWS Telco Network Builder"/> | [AWS Telco Network Builder](aws-telco-network-builder/) |
-| AWS Trusted Advisor | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Trusted-Advisor_64.svg" width="36" alt="AWS Trusted Advisor"/> | [AWS Trusted Advisor](aws-trusted-advisor/) |
-| AWS User Notifications | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-User-Notifications_64.svg" width="36" alt="AWS User Notifications"/> | [AWS User Notifications](aws-user-notifications/) |
-| AWS Well Architected Tool | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Well-Architected-Tool_64.svg" width="36" alt="AWS Well Architected Tool"/> | [AWS Well Architected Tool](aws-well-architected-tool/) |
-| Amazon CloudWatch | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_Amazon-CloudWatch_64.svg" width="36" alt="Amazon CloudWatch"/> | [Amazon CloudWatch](amazon-cloudwatch/) |
-| Amazon Managed Grafana | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_Amazon-Managed-Grafana_64.svg" width="36" alt="Amazon Managed Grafana"/> | [Amazon Managed Grafana](amazon-managed-grafana/) |
-| Amazon Managed Service for Prometheus | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_Amazon-Managed-Service-for-Prometheus_64.svg" width="36" alt="Amazon Managed Service for Prometheus"/> | [Amazon Managed Service for Prometheus](amazon-managed-service-for-prometheus/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon cloudwatch | [Explore](amazon-cloudwatch/) |
+| amazon managed grafana | [Explore](amazon-managed-grafana/) |
+| amazon managed service for prometheus | [Explore](amazon-managed-service-for-prometheus/) |
+| aws appconfig | [Explore](aws-appconfig/) |
+| aws application auto scaling | [Explore](aws-application-auto-scaling/) |
+| aws auto scaling | [Explore](aws-auto-scaling/) |
+| aws backint agent | [Explore](aws-backint-agent/) |
+| aws chatbot | [Explore](aws-chatbot/) |
+| aws cloudformation | [Explore](aws-cloudformation/) |
+| aws cloudtrail | [Explore](aws-cloudtrail/) |
+| aws compute optimizer | [Explore](aws-compute-optimizer/) |
+| aws config | [Explore](aws-config/) |
+| aws console mobile application | [Explore](aws-console-mobile-application/) |
+| aws control tower | [Explore](aws-control-tower/) |
+| aws devops agent | [Explore](aws-devops-agent/) |
+| aws distro for opentelemetry | [Explore](aws-distro-for-opentelemetry/) |
+| aws health dashboard | [Explore](aws-health-dashboard/) |
+| aws launch wizard | [Explore](aws-launch-wizard/) |
+| aws license manager | [Explore](aws-license-manager/) |
+| aws management console | [Explore](aws-management-console/) |
+| aws organizations | [Explore](aws-organizations/) |
+| aws partner central | [Explore](aws-partner-central/) |
+| aws proton | [Explore](aws-proton/) |
+| aws resilience hub | [Explore](aws-resilience-hub/) |
+| aws resource explorer | [Explore](aws-resource-explorer/) |
+| aws service catalog | [Explore](aws-service-catalog/) |
+| aws service management connector | [Explore](aws-service-management-connector/) |
+| aws sustainability | [Explore](aws-sustainability/) |
+| aws systems manager | [Explore](aws-systems-manager/) |
+| aws telco network builder | [Explore](aws-telco-network-builder/) |
+| aws trusted advisor | [Explore](aws-trusted-advisor/) |
+| aws user notifications | [Explore](aws-user-notifications/) |
+| aws well architected tool | [Explore](aws-well-architected-tool/) |
+
+[Return to AWS-WORLD](../../README.md)

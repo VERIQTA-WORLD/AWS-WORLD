@@ -1,26 +1,28 @@
-# Media Services
+# media services
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore media services through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS Deadline Cloud | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Deadline-Cloud_64.svg" width="36" alt="AWS Deadline Cloud"/> | [AWS Deadline Cloud](aws-deadline-cloud/) |
-| AWS Elemental Appliances & Software | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Appliances-&-Software_64.svg" width="36" alt="AWS Elemental Appliances & Software"/> | [AWS Elemental Appliances & Software](aws-elemental-appliances-software/) |
-| AWS Elemental Conductor | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Conductor_64.svg" width="36" alt="AWS Elemental Conductor"/> | [AWS Elemental Conductor](aws-elemental-conductor/) |
-| AWS Elemental Delta | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Delta_64.svg" width="36" alt="AWS Elemental Delta"/> | [AWS Elemental Delta](aws-elemental-delta/) |
-| AWS Elemental Link | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Link_64.svg" width="36" alt="AWS Elemental Link"/> | [AWS Elemental Link](aws-elemental-link/) |
-| AWS Elemental Live | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Live_64.svg" width="36" alt="AWS Elemental Live"/> | [AWS Elemental Live](aws-elemental-live/) |
-| AWS Elemental MediaConnect | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaConnect_64.svg" width="36" alt="AWS Elemental MediaConnect"/> | [AWS Elemental MediaConnect](aws-elemental-mediaconnect/) |
-| AWS Elemental MediaConvert | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaConvert_64.svg" width="36" alt="AWS Elemental MediaConvert"/> | [AWS Elemental MediaConvert](aws-elemental-mediaconvert/) |
-| AWS Elemental MediaLive | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaLive_64.svg" width="36" alt="AWS Elemental MediaLive"/> | [AWS Elemental MediaLive](aws-elemental-medialive/) |
-| AWS Elemental MediaPackage | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaPackage_64.svg" width="36" alt="AWS Elemental MediaPackage"/> | [AWS Elemental MediaPackage](aws-elemental-mediapackage/) |
-| AWS Elemental MediaStore | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaStore_64.svg" width="36" alt="AWS Elemental MediaStore"/> | [AWS Elemental MediaStore](aws-elemental-mediastore/) |
-| AWS Elemental MediaTailor | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-MediaTailor_64.svg" width="36" alt="AWS Elemental MediaTailor"/> | [AWS Elemental MediaTailor](aws-elemental-mediatailor/) |
-| AWS Elemental Server | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Elemental-Server_64.svg" width="36" alt="AWS Elemental Server"/> | [AWS Elemental Server](aws-elemental-server/) |
-| AWS Thinkbox Deadline | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Deadline_64.svg" width="36" alt="AWS Thinkbox Deadline"/> | [AWS Thinkbox Deadline](aws-thinkbox-deadline/) |
-| AWS Thinkbox Frost | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Frost_64.svg" width="36" alt="AWS Thinkbox Frost"/> | [AWS Thinkbox Frost](aws-thinkbox-frost/) |
-| AWS Thinkbox Krakatoa | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Krakatoa_64.svg" width="36" alt="AWS Thinkbox Krakatoa"/> | [AWS Thinkbox Krakatoa](aws-thinkbox-krakatoa/) |
-| AWS Thinkbox Stoke | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-Stoke_64.svg" width="36" alt="AWS Thinkbox Stoke"/> | [AWS Thinkbox Stoke](aws-thinkbox-stoke/) |
-| AWS Thinkbox XMesh | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_AWS-Thinkbox-XMesh_64.svg" width="36" alt="AWS Thinkbox XMesh"/> | [AWS Thinkbox XMesh](aws-thinkbox-xmesh/) |
-| Amazon Interactive Video Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_Amazon-Interactive-Video-Service_64.svg" width="36" alt="Amazon Interactive Video Service"/> | [Amazon Interactive Video Service](amazon-interactive-video-service/) |
-| Amazon Kinesis Video Streams | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Media-Services/64/Arch_Amazon-Kinesis-Video-Streams_64.svg" width="36" alt="Amazon Kinesis Video Streams"/> | [Amazon Kinesis Video Streams](amazon-kinesis-video-streams/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon interactive video service | [Explore](amazon-interactive-video-service/) |
+| amazon kinesis video streams | [Explore](amazon-kinesis-video-streams/) |
+| aws deadline cloud | [Explore](aws-deadline-cloud/) |
+| aws elemental appliances software | [Explore](aws-elemental-appliances-software/) |
+| aws elemental conductor | [Explore](aws-elemental-conductor/) |
+| aws elemental delta | [Explore](aws-elemental-delta/) |
+| aws elemental link | [Explore](aws-elemental-link/) |
+| aws elemental live | [Explore](aws-elemental-live/) |
+| aws elemental mediaconnect | [Explore](aws-elemental-mediaconnect/) |
+| aws elemental mediaconvert | [Explore](aws-elemental-mediaconvert/) |
+| aws elemental medialive | [Explore](aws-elemental-medialive/) |
+| aws elemental mediapackage | [Explore](aws-elemental-mediapackage/) |
+| aws elemental mediastore | [Explore](aws-elemental-mediastore/) |
+| aws elemental mediatailor | [Explore](aws-elemental-mediatailor/) |
+| aws elemental server | [Explore](aws-elemental-server/) |
+| aws thinkbox deadline | [Explore](aws-thinkbox-deadline/) |
+| aws thinkbox frost | [Explore](aws-thinkbox-frost/) |
+| aws thinkbox krakatoa | [Explore](aws-thinkbox-krakatoa/) |
+| aws thinkbox stoke | [Explore](aws-thinkbox-stoke/) |
+| aws thinkbox xmesh | [Explore](aws-thinkbox-xmesh/) |
+
+[Return to AWS-WORLD](../../README.md)

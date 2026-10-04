@@ -1,14 +1,14 @@
 # Security Risk and Compliance
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Security Risk and Compliance through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| encryption | [Open](encryption.md) |
-| incident response | [Open](incident-response.md) |
-| key management | [Open](key-management.md) |
-| least privilege | [Open](least-privilege.md) |
-| logging and auditing | [Open](logging-and-auditing.md) |
-| secrets | [Open](secrets.md) |
+| Topic | Explore |
+| :--- | :--- |
+| encryption | [Explore](encryption.md) |
+| incident response | [Explore](incident-response.md) |
+| key management | [Explore](key-management.md) |
+| least privilege | [Explore](least-privilege.md) |
+| logging and auditing | [Explore](logging-and-auditing.md) |
+| secrets | [Explore](secrets.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

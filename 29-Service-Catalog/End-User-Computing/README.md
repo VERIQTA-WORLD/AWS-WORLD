@@ -1,7 +1,9 @@
-# End User Computing
+# end user computing
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore end user computing through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| Amazon WorkSpaces | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_End-User-Computing/64/Arch_Amazon-WorkSpaces_64.svg" width="36" alt="Amazon WorkSpaces"/> | [Amazon WorkSpaces](amazon-workspaces/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon workspaces | [Explore](amazon-workspaces/) |
+
+[Return to AWS-WORLD](../../README.md)

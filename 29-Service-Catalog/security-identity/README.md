@@ -1,34 +1,36 @@
-# Security Identity
+# security identity
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore security identity through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS Artifact | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Artifact_64.svg" width="36" alt="AWS Artifact"/> | [AWS Artifact](aws-artifact/) |
-| AWS Audit Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Audit-Manager_64.svg" width="36" alt="AWS Audit Manager"/> | [AWS Audit Manager](aws-audit-manager/) |
-| AWS Certificate Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Certificate-Manager_64.svg" width="36" alt="AWS Certificate Manager"/> | [AWS Certificate Manager](aws-certificate-manager/) |
-| AWS CloudHSM | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-CloudHSM_64.svg" width="36" alt="AWS CloudHSM"/> | [AWS CloudHSM](aws-cloudhsm/) |
-| AWS Directory Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Directory-Service_64.svg" width="36" alt="AWS Directory Service"/> | [AWS Directory Service](aws-directory-service/) |
-| AWS Firewall Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Firewall-Manager_64.svg" width="36" alt="AWS Firewall Manager"/> | [AWS Firewall Manager](aws-firewall-manager/) |
-| AWS IAM Identity Center | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-IAM-Identity-Center_64.svg" width="36" alt="AWS IAM Identity Center"/> | [AWS IAM Identity Center](aws-iam-identity-center/) |
-| AWS Identity and Access Management | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Identity-and-Access-Management_64.svg" width="36" alt="AWS Identity and Access Management"/> | [AWS Identity and Access Management](aws-identity-and-access-management/) |
-| AWS Key Management Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Key-Management-Service_64.svg" width="36" alt="AWS Key Management Service"/> | [AWS Key Management Service](aws-key-management-service/) |
-| AWS Network Firewall | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Network-Firewall_64.svg" width="36" alt="AWS Network Firewall"/> | [AWS Network Firewall](aws-network-firewall/) |
-| AWS Payment Cryptography | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Payment-Cryptography_64.svg" width="36" alt="AWS Payment Cryptography"/> | [AWS Payment Cryptography](aws-payment-cryptography/) |
-| AWS Private Certificate Authority | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Private-Certificate-Authority_64.svg" width="36" alt="AWS Private Certificate Authority"/> | [AWS Private Certificate Authority](aws-private-certificate-authority/) |
-| AWS Resource Access Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Resource-Access-Manager_64.svg" width="36" alt="AWS Resource Access Manager"/> | [AWS Resource Access Manager](aws-resource-access-manager/) |
-| AWS Secrets Manager | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Secrets-Manager_64.svg" width="36" alt="AWS Secrets Manager"/> | [AWS Secrets Manager](aws-secrets-manager/) |
-| AWS Security Agent | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Security-Agent_64.svg" width="36" alt="AWS Security Agent"/> | [AWS Security Agent](aws-security-agent/) |
-| AWS Security Hub | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Security-Hub_64.svg" width="36" alt="AWS Security Hub"/> | [AWS Security Hub](aws-security-hub/) |
-| AWS Security Incident Response | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Security-Incident-Response_64.svg" width="36" alt="AWS Security Incident Response"/> | [AWS Security Incident Response](aws-security-incident-response/) |
-| AWS Shield | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Shield_64.svg" width="36" alt="AWS Shield"/> | [AWS Shield](aws-shield/) |
-| AWS Signer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Signer_64.svg" width="36" alt="AWS Signer"/> | [AWS Signer](aws-signer/) |
-| AWS WAF | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-WAF_64.svg" width="36" alt="AWS WAF"/> | [AWS WAF](aws-waf/) |
-| Amazon Cloud Directory | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Cloud-Directory_64.svg" width="36" alt="Amazon Cloud Directory"/> | [Amazon Cloud Directory](amazon-cloud-directory/) |
-| Amazon Cognito | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Cognito_64.svg" width="36" alt="Amazon Cognito"/> | [Amazon Cognito](amazon-cognito/) |
-| Amazon Detective | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Detective_64.svg" width="36" alt="Amazon Detective"/> | [Amazon Detective](amazon-detective/) |
-| Amazon GuardDuty | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-GuardDuty_64.svg" width="36" alt="Amazon GuardDuty"/> | [Amazon GuardDuty](amazon-guardduty/) |
-| Amazon Inspector | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Inspector_64.svg" width="36" alt="Amazon Inspector"/> | [Amazon Inspector](amazon-inspector/) |
-| Amazon Macie | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Macie_64.svg" width="36" alt="Amazon Macie"/> | [Amazon Macie](amazon-macie/) |
-| Amazon Security Lake | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Security-Lake_64.svg" width="36" alt="Amazon Security Lake"/> | [Amazon Security Lake](amazon-security-lake/) |
-| Amazon Verified Permissions | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-Verified-Permissions_64.svg" width="36" alt="Amazon Verified Permissions"/> | [Amazon Verified Permissions](amazon-verified-permissions/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon cloud directory | [Explore](amazon-cloud-directory/) |
+| amazon cognito | [Explore](amazon-cognito/) |
+| amazon detective | [Explore](amazon-detective/) |
+| amazon guardduty | [Explore](amazon-guardduty/) |
+| amazon inspector | [Explore](amazon-inspector/) |
+| amazon macie | [Explore](amazon-macie/) |
+| amazon security lake | [Explore](amazon-security-lake/) |
+| amazon verified permissions | [Explore](amazon-verified-permissions/) |
+| aws artifact | [Explore](aws-artifact/) |
+| aws audit manager | [Explore](aws-audit-manager/) |
+| aws certificate manager | [Explore](aws-certificate-manager/) |
+| aws cloudhsm | [Explore](aws-cloudhsm/) |
+| aws directory service | [Explore](aws-directory-service/) |
+| aws firewall manager | [Explore](aws-firewall-manager/) |
+| aws iam identity center | [Explore](aws-iam-identity-center/) |
+| aws identity and access management | [Explore](aws-identity-and-access-management/) |
+| aws key management service | [Explore](aws-key-management-service/) |
+| aws network firewall | [Explore](aws-network-firewall/) |
+| aws payment cryptography | [Explore](aws-payment-cryptography/) |
+| aws private certificate authority | [Explore](aws-private-certificate-authority/) |
+| aws resource access manager | [Explore](aws-resource-access-manager/) |
+| aws secrets manager | [Explore](aws-secrets-manager/) |
+| aws security agent | [Explore](aws-security-agent/) |
+| aws security hub | [Explore](aws-security-hub/) |
+| aws security incident response | [Explore](aws-security-incident-response/) |
+| aws shield | [Explore](aws-shield/) |
+| aws signer | [Explore](aws-signer/) |
+| aws waf | [Explore](aws-waf/) |
+
+[Return to AWS-WORLD](../../README.md)

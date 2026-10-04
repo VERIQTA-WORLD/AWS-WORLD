@@ -1,8 +1,10 @@
-# General Icons
+# general icons
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore general icons through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS Marketplace Dark | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_General-Icons/64/Arch_AWS-Marketplace_Dark_64.svg" width="36" alt="AWS Marketplace Dark"/> | [AWS Marketplace Dark](aws-marketplace-dark/) |
-| AWS Marketplace Light | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_General-Icons/64/Arch_AWS-Marketplace_Light_64.svg" width="36" alt="AWS Marketplace Light"/> | [AWS Marketplace Light](aws-marketplace-light/) |
+| Topic | Explore |
+| :--- | :--- |
+| aws marketplace dark | [Explore](aws-marketplace-dark/) |
+| aws marketplace light | [Explore](aws-marketplace-light/) |
+
+[Return to AWS-WORLD](../../README.md)

@@ -1,47 +1,49 @@
-# Artificial Intelligence
+# artificial intelligence
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore artificial intelligence through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS App Studio | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-App-Studio_64.svg" width="36" alt="AWS App Studio"/> | [AWS App Studio](aws-app-studio/) |
-| AWS Deep Learning AMIs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-Deep-Learning-AMIs_64.svg" width="36" alt="AWS Deep Learning AMIs"/> | [AWS Deep Learning AMIs](aws-deep-learning-amis/) |
-| AWS Deep Learning Containers | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-Deep-Learning-Containers_64.svg" width="36" alt="AWS Deep Learning Containers"/> | [AWS Deep Learning Containers](aws-deep-learning-containers/) |
-| AWS DeepRacer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-DeepRacer_64.svg" width="36" alt="AWS DeepRacer"/> | [AWS DeepRacer](aws-deepracer/) |
-| AWS Elemental Inference | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-Elemental-Inference_64.svg" width="36" alt="AWS Elemental Inference"/> | [AWS Elemental Inference](aws-elemental-inference/) |
-| AWS HealthImaging | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-HealthImaging_64.svg" width="36" alt="AWS HealthImaging"/> | [AWS HealthImaging](aws-healthimaging/) |
-| AWS HealthLake | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-HealthLake_64.svg" width="36" alt="AWS HealthLake"/> | [AWS HealthLake](aws-healthlake/) |
-| AWS HealthOmics | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-HealthOmics_64.svg" width="36" alt="AWS HealthOmics"/> | [AWS HealthOmics](aws-healthomics/) |
-| AWS HealthScribe | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-HealthScribe_64.svg" width="36" alt="AWS HealthScribe"/> | [AWS HealthScribe](aws-healthscribe/) |
-| AWS Neuron | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-Neuron_64.svg" width="36" alt="AWS Neuron"/> | [AWS Neuron](aws-neuron/) |
-| AWS Panorama | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_AWS-Panorama_64.svg" width="36" alt="AWS Panorama"/> | [AWS Panorama](aws-panorama/) |
-| Amazon Augmented AI A2I | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Augmented-AI-A2I_64.svg" width="36" alt="Amazon Augmented AI A2I"/> | [Amazon Augmented AI A2I](amazon-augmented-ai-a2i/) |
-| Amazon Bedrock | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Bedrock_64.svg" width="36" alt="Amazon Bedrock"/> | [Amazon Bedrock](amazon-bedrock/) |
-| Amazon Bedrock AgentCore | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Bedrock-AgentCore_64.svg" width="36" alt="Amazon Bedrock AgentCore"/> | [Amazon Bedrock AgentCore](amazon-bedrock-agentcore/) |
-| Amazon CodeGuru | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-CodeGuru_64.svg" width="36" alt="Amazon CodeGuru"/> | [Amazon CodeGuru](amazon-codeguru/) |
-| Amazon CodeWhisperer | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-CodeWhisperer_64.svg" width="36" alt="Amazon CodeWhisperer"/> | [Amazon CodeWhisperer](amazon-codewhisperer/) |
-| Amazon Comprehend | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Comprehend_64.svg" width="36" alt="Amazon Comprehend"/> | [Amazon Comprehend](amazon-comprehend/) |
-| Amazon Comprehend Medical | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Comprehend-Medical_64.svg" width="36" alt="Amazon Comprehend Medical"/> | [Amazon Comprehend Medical](amazon-comprehend-medical/) |
-| Amazon DevOps Guru | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-DevOps-Guru_64.svg" width="36" alt="Amazon DevOps Guru"/> | [Amazon DevOps Guru](amazon-devops-guru/) |
-| Amazon Elastic Inference | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Elastic-Inference_64.svg" width="36" alt="Amazon Elastic Inference"/> | [Amazon Elastic Inference](amazon-elastic-inference/) |
-| Amazon Forecast | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Forecast_64.svg" width="36" alt="Amazon Forecast"/> | [Amazon Forecast](amazon-forecast/) |
-| Amazon Fraud Detector | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Fraud-Detector_64.svg" width="36" alt="Amazon Fraud Detector"/> | [Amazon Fraud Detector](amazon-fraud-detector/) |
-| Amazon Kendra | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Kendra_64.svg" width="36" alt="Amazon Kendra"/> | [Amazon Kendra](amazon-kendra/) |
-| Amazon Lex | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Lex_64.svg" width="36" alt="Amazon Lex"/> | [Amazon Lex](amazon-lex/) |
-| Amazon Lookout for Equipment | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Lookout-for-Equipment_64.svg" width="36" alt="Amazon Lookout for Equipment"/> | [Amazon Lookout for Equipment](amazon-lookout-for-equipment/) |
-| Amazon Lookout for Vision | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Lookout-for-Vision_64.svg" width="36" alt="Amazon Lookout for Vision"/> | [Amazon Lookout for Vision](amazon-lookout-for-vision/) |
-| Amazon Monitron | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Monitron_64.svg" width="36" alt="Amazon Monitron"/> | [Amazon Monitron](amazon-monitron/) |
-| Amazon Nova | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Nova_64.svg" width="36" alt="Amazon Nova"/> | [Amazon Nova](amazon-nova/) |
-| Amazon Personalize | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Personalize_64.svg" width="36" alt="Amazon Personalize"/> | [Amazon Personalize](amazon-personalize/) |
-| Amazon Polly | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Polly_64.svg" width="36" alt="Amazon Polly"/> | [Amazon Polly](amazon-polly/) |
-| Amazon Q | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Q_64.svg" width="36" alt="Amazon Q"/> | [Amazon Q](amazon-q/) |
-| Amazon Rekognition | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Rekognition_64.svg" width="36" alt="Amazon Rekognition"/> | [Amazon Rekognition](amazon-rekognition/) |
-| Amazon SageMaker AI | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-SageMaker-AI_64.svg" width="36" alt="Amazon SageMaker AI"/> | [Amazon SageMaker AI](amazon-sagemaker-ai/) |
-| Amazon SageMaker Ground Truth | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-SageMaker-Ground-Truth_64.svg" width="36" alt="Amazon SageMaker Ground Truth"/> | [Amazon SageMaker Ground Truth](amazon-sagemaker-ground-truth/) |
-| Amazon SageMaker Studio Lab | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-SageMaker-Studio-Lab_64.svg" width="36" alt="Amazon SageMaker Studio Lab"/> | [Amazon SageMaker Studio Lab](amazon-sagemaker-studio-lab/) |
-| Amazon Textract | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Textract_64.svg" width="36" alt="Amazon Textract"/> | [Amazon Textract](amazon-textract/) |
-| Amazon Transcribe | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Transcribe_64.svg" width="36" alt="Amazon Transcribe"/> | [Amazon Transcribe](amazon-transcribe/) |
-| Amazon Translate | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Amazon-Translate_64.svg" width="36" alt="Amazon Translate"/> | [Amazon Translate](amazon-translate/) |
-| Apache MXNet on AWS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_Apache-MXNet-on-AWS_64.svg" width="36" alt="Apache MXNet on AWS"/> | [Apache MXNet on AWS](apache-mxnet-on-aws/) |
-| PyTorch on AWS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_PyTorch-on-AWS_64.svg" width="36" alt="PyTorch on AWS"/> | [PyTorch on AWS](pytorch-on-aws/) |
-| TensorFlow on AWS | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Artificial-Intelligence/64/Arch_TensorFlow-on-AWS_64.svg" width="36" alt="TensorFlow on AWS"/> | [TensorFlow on AWS](tensorflow-on-aws/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon augmented ai a2i | [Explore](amazon-augmented-ai-a2i/) |
+| amazon bedrock | [Explore](amazon-bedrock/) |
+| amazon bedrock agentcore | [Explore](amazon-bedrock-agentcore/) |
+| amazon codeguru | [Explore](amazon-codeguru/) |
+| amazon codewhisperer | [Explore](amazon-codewhisperer/) |
+| amazon comprehend | [Explore](amazon-comprehend/) |
+| amazon comprehend medical | [Explore](amazon-comprehend-medical/) |
+| amazon devops guru | [Explore](amazon-devops-guru/) |
+| amazon elastic inference | [Explore](amazon-elastic-inference/) |
+| amazon forecast | [Explore](amazon-forecast/) |
+| amazon fraud detector | [Explore](amazon-fraud-detector/) |
+| amazon kendra | [Explore](amazon-kendra/) |
+| amazon lex | [Explore](amazon-lex/) |
+| amazon lookout for equipment | [Explore](amazon-lookout-for-equipment/) |
+| amazon lookout for vision | [Explore](amazon-lookout-for-vision/) |
+| amazon monitron | [Explore](amazon-monitron/) |
+| amazon nova | [Explore](amazon-nova/) |
+| amazon personalize | [Explore](amazon-personalize/) |
+| amazon polly | [Explore](amazon-polly/) |
+| amazon q | [Explore](amazon-q/) |
+| amazon rekognition | [Explore](amazon-rekognition/) |
+| amazon sagemaker ai | [Explore](amazon-sagemaker-ai/) |
+| amazon sagemaker ground truth | [Explore](amazon-sagemaker-ground-truth/) |
+| amazon sagemaker studio lab | [Explore](amazon-sagemaker-studio-lab/) |
+| amazon textract | [Explore](amazon-textract/) |
+| amazon transcribe | [Explore](amazon-transcribe/) |
+| amazon translate | [Explore](amazon-translate/) |
+| apache mxnet on aws | [Explore](apache-mxnet-on-aws/) |
+| aws app studio | [Explore](aws-app-studio/) |
+| aws deep learning amis | [Explore](aws-deep-learning-amis/) |
+| aws deep learning containers | [Explore](aws-deep-learning-containers/) |
+| aws deepracer | [Explore](aws-deepracer/) |
+| aws elemental inference | [Explore](aws-elemental-inference/) |
+| aws healthimaging | [Explore](aws-healthimaging/) |
+| aws healthlake | [Explore](aws-healthlake/) |
+| aws healthomics | [Explore](aws-healthomics/) |
+| aws healthscribe | [Explore](aws-healthscribe/) |
+| aws neuron | [Explore](aws-neuron/) |
+| aws panorama | [Explore](aws-panorama/) |
+| pytorch on aws | [Explore](pytorch-on-aws/) |
+| tensorflow on aws | [Explore](tensorflow-on-aws/) |
+
+[Return to AWS-WORLD](../../README.md)

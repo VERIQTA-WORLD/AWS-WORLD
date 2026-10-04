@@ -1,20 +1,22 @@
-# Business Applications
+# business applications
 
-Browse the service folders below. Learning files are reserved and currently empty.
+Explore business applications through AWS architecture, service behaviour, and production engineering.
 
-| Service | Icon | Learning folder |
-|---|---|---|
-| AWS AppFabric | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-AppFabric_64.svg" width="36" alt="AWS AppFabric"/> | [AWS AppFabric](aws-appfabric/) |
-| AWS End User Messaging | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-End-User-Messaging_64.svg" width="36" alt="AWS End User Messaging"/> | [AWS End User Messaging](aws-end-user-messaging/) |
-| AWS Supply Chain | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-Supply-Chain_64.svg" width="36" alt="AWS Supply Chain"/> | [AWS Supply Chain](aws-supply-chain/) |
-| AWS Wickr | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_AWS-Wickr_64.svg" width="36" alt="AWS Wickr"/> | [AWS Wickr](aws-wickr/) |
-| Amazon Chime | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Chime_64.svg" width="36" alt="Amazon Chime"/> | [Amazon Chime](amazon-chime/) |
-| Amazon Chime SDK | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Chime-SDK_64.svg" width="36" alt="Amazon Chime SDK"/> | [Amazon Chime SDK](amazon-chime-sdk/) |
-| Amazon Connect | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Connect_64.svg" width="36" alt="Amazon Connect"/> | [Amazon Connect](amazon-connect/) |
-| Amazon Pinpoint | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Pinpoint_64.svg" width="36" alt="Amazon Pinpoint"/> | [Amazon Pinpoint](amazon-pinpoint/) |
-| Amazon Pinpoint APIs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Pinpoint-APIs_64.svg" width="36" alt="Amazon Pinpoint APIs"/> | [Amazon Pinpoint APIs](amazon-pinpoint-apis/) |
-| Amazon Quick | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Quick_64.svg" width="36" alt="Amazon Quick"/> | [Amazon Quick](amazon-quick/) |
-| Amazon Simple Email Service | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-Simple-Email-Service_64.svg" width="36" alt="Amazon Simple Email Service"/> | [Amazon Simple Email Service](amazon-simple-email-service/) |
-| Amazon WorkDocs | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkDocs_64.svg" width="36" alt="Amazon WorkDocs"/> | [Amazon WorkDocs](amazon-workdocs/) |
-| Amazon WorkDocs SDK | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkDocs-SDK_64.svg" width="36" alt="Amazon WorkDocs SDK"/> | [Amazon WorkDocs SDK](amazon-workdocs-sdk/) |
-| Amazon WorkMail | <img src="../../assets/aws-icons/Architecture-Service-Icons_07312026/Arch_Business-Applications/64/Arch_Amazon-WorkMail_64.svg" width="36" alt="Amazon WorkMail"/> | [Amazon WorkMail](amazon-workmail/) |
+| Topic | Explore |
+| :--- | :--- |
+| amazon chime | [Explore](amazon-chime/) |
+| amazon chime sdk | [Explore](amazon-chime-sdk/) |
+| amazon connect | [Explore](amazon-connect/) |
+| amazon pinpoint | [Explore](amazon-pinpoint/) |
+| amazon pinpoint apis | [Explore](amazon-pinpoint-apis/) |
+| amazon quick | [Explore](amazon-quick/) |
+| amazon simple email service | [Explore](amazon-simple-email-service/) |
+| amazon workdocs | [Explore](amazon-workdocs/) |
+| amazon workdocs sdk | [Explore](amazon-workdocs-sdk/) |
+| amazon workmail | [Explore](amazon-workmail/) |
+| aws appfabric | [Explore](aws-appfabric/) |
+| aws end user messaging | [Explore](aws-end-user-messaging/) |
+| aws supply chain | [Explore](aws-supply-chain/) |
+| aws wickr | [Explore](aws-wickr/) |
+
+[Return to AWS-WORLD](../../README.md)

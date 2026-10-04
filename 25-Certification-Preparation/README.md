@@ -1,12 +1,12 @@
 # Certification Preparation
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Certification Preparation through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| associate | [Open](associate.md) |
-| foundational | [Open](foundational.md) |
-| professional | [Open](professional.md) |
-| specialty | [Open](specialty.md) |
+| Topic | Explore |
+| :--- | :--- |
+| associate | [Explore](associate.md) |
+| foundational | [Explore](foundational.md) |
+| professional | [Explore](professional.md) |
+| specialty | [Explore](specialty.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)

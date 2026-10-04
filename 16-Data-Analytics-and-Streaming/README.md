@@ -1,19 +1,17 @@
 # Data Analytics and Streaming
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Data Analytics and Streaming through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| 01 Athena | [Open](01-Athena.md) |
-| 02 Glue | [Open](02-Glue.md) |
-| 03 Redshift | [Open](03-Redshift.md) |
-| 04 EMR | [Open](04-EMR.md) |
-| 05 Kinesis | [Open](05-Kinesis.md) |
-| 06 MSK | [Open](06-MSK.md) |
-| 07 Lake Formation | [Open](07-Lake-Formation.md) |
-| 08 Data Lakes | [Open](08-Data-Lakes.md) |
-| 09 Streaming Patterns | [Open](09-Streaming-Patterns.md) |
+| Topic | Explore |
+| :--- | :--- |
+| Athena | [Explore](01-Athena.md) |
+| Glue | [Explore](02-Glue.md) |
+| Redshift | [Explore](03-Redshift.md) |
+| EMR | [Explore](04-EMR.md) |
+| Kinesis | [Explore](05-Kinesis.md) |
+| MSK | [Explore](06-MSK.md) |
+| Lake Formation | [Explore](07-Lake-Formation.md) |
+| Data Lakes | [Explore](08-Data-Lakes.md) |
+| Streaming Patterns | [Explore](09-Streaming-Patterns.md) |
 
-[Return to AWS World](../README.md)
-
-[Browse analytics services](../29-Service-Catalog/analytics/)
+[Return to AWS-WORLD](../README.md)

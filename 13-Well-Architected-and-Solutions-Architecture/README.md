@@ -1,14 +1,14 @@
 # Well Architected and Solutions Architecture
 
-This section is part of VERIQTA AWS World. Learning files are reserved and currently empty.
+Explore Well Architected and Solutions Architecture through AWS architecture, service behaviour, and production engineering.
 
-| Topic or folder | Open |
-|---|---|
-| cost optimization | [Open](cost-optimization.md) |
-| operational excellence | [Open](operational-excellence.md) |
-| performance efficiency | [Open](performance-efficiency.md) |
-| reliability | [Open](reliability.md) |
-| security | [Open](security.md) |
-| sustainability | [Open](sustainability.md) |
+| Topic | Explore |
+| :--- | :--- |
+| cost optimization | [Explore](cost-optimization.md) |
+| operational excellence | [Explore](operational-excellence.md) |
+| performance efficiency | [Explore](performance-efficiency.md) |
+| reliability | [Explore](reliability.md) |
+| security | [Explore](security.md) |
+| sustainability | [Explore](sustainability.md) |
 
-[Return to AWS World](../README.md)
+[Return to AWS-WORLD](../README.md)
